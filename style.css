@@ -5,7 +5,7 @@ BODY {
 }
 
 DIV {
-	border: 1px solid #000;
+	border: 1px solid #000000;
 	}
 
 #Header {
@@ -14,7 +14,6 @@ DIV {
 	margin-right: auto;
 	margin-left: auto;
 	background: url(images/banner.png) no-repeat;
-	color:red;
 	}
 
 #MainContent {
@@ -28,7 +27,6 @@ DIV {
 	margin-right: auto;
 	margin-left: auto;
 	height:50px;
-	border: 1px solid #fff;
 }
 
 #FooterLeft {
